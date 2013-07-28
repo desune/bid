@@ -1,0 +1,50 @@
+body {
+    background: silver;
+    font: 14px 'trebuchet ms', arial, sans-serif;
+}
+#header{
+    padding: 20px;
+    background: #12407f;
+    color: #fff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom: 4px solid #436fac;
+}
+#content {
+    background: #fff;
+    padding: 20px;
+    font-family: helvetica, arial;
+}
+#footer {
+    background: #12407f;
+    color: #fff;
+    padding: 20px;
+    border-top: 4px solid #436fac;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+#tabsE {
+    background: #12407f;
+    font-size:100%;
+    line-height:normal;
+    padding: 16px;
+}
+#tabsE a {
+    color: #fff;
+    background: #436fac;
+    padding: 4px 15px;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+#tabsE a:hover {
+    background: #4d8add
+}
+
+#dangki
+{
+    background: #fff;
+    width: 100%; 
+    height: 80em;
+}

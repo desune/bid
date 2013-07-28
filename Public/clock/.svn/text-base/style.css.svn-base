@@ -1,0 +1,12 @@
+body{background: #eee}
+#clock { 
+    width: 150px; 
+	height: 54px; 
+	line-height: 54px; 
+	text-align: center; 
+	color: #fff; 
+	font-size: 25px; 
+	word-spacing: 15px; 
+	background: url(clock.gif) no-repeat;
+    margin: 100px 0 0 200px;
+}

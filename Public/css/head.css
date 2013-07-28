@@ -1,0 +1,149 @@
+body {
+    background: black;
+    font-size:12px;font-family: Tahoma !important
+}
+.hello {color: #ffffff; font-weight: bold;font-size: 12; background-color: black; margin-left: 550px; margin-right: 550px; margin-top: 100px;padding-bottom: 10px; padding-top: 10px}
+.hello a{color: #E28D00;}
+li {float: left; margin-top: 15px;text-align:center; display:inline-block; list-style:none;top:-1px; position:relative; width:80px; height:80px}
+li a {color:#333333; text-decoration:none;}
+span {display:inline-block}
+.menu {padding-top:4px; margin:6px 2px 0px; text-align:center; height:58px; font-size:11px; font-size: 12px}
+.menu:hover {background:#2D2A2A; -moz-border-radius:6px; -webkit-border-radius:6px; cursor:pointer; color:#FFF}
+.active {background-position:-278px -9px; width:85px; height:80px;}
+.main {background-position:-6px -50px; width:50px; height:30px;font-size: 12px}
+.main:hover {background:url(../images/header/home2.png) top left no-repeat;}
+.top {width:1040px; margin:auto; height: 96px;}
+.logo {float: left; width:180px; display:inline-table; padding-top:20px;}
+#daugianguoc {background-color:#fff;padding-bottom:10px;width:100%;color:#333333; float:left; font-size:12px;font-family: Tahoma !important}
+#content {
+    background-color:#EEEEEE;
+    padding: 20px;
+    height: auto;
+    color:#333333;font-size:12px;font-family: Tahoma !important
+}
+#footer {
+  float:left;
+  margin-top:0 !important;
+  width:100%;
+  background-color: #EEEEEE;
+}
+form {
+    font: 100% verdana,arial,sans-serif;
+}
+
+form label { 
+    display: block;
+    float: left; 
+    width: 600px; 
+    padding: 0; 
+    margin: 9px 0 0;
+    text-align: right; 
+}
+
+form input, form select {
+    width: auto;
+    margin: 5px 0 0 10px;
+    border: 1px solid gray;
+    padding: 4px;
+}
+
+form input[type=submit]:hover {
+    cursor: pointer;
+    background: silver;
+}
+
+
+form br {clear: left;}
+
+.table {
+    width: 80%;
+    background: #fff;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:100%;
+    font-style:inherit;
+    font-weight:inherit;
+    background-position:initial initial;
+    background-repeat:initial initial;
+    border:1px solid #D8D8D8;
+    display:inline-block;
+    margin:0;
+    padding:10px 14px 0;
+}
+.table td{
+    border:1px dotted #ccc;
+}
+.pagination a, .pagination strong {
+    background: #e3e3e3;
+    padding: 4px 7px;
+    text-decoration: none;
+    border: 1px solid #cac9c9;
+    color: #292929;
+    font-size: 13px;
+    margin: auto;
+}
+
+.pagination strong, .pagination a:hover {
+    font-weight: normal;
+    background: #cac9c9;
+    margin: auto;
+}	
+
+.button_thamgia {background-color:#FF9900; color:#FFFFFF;text-shadow:0px 1px 0px #b56600; 
+                 border:1px solid #E08A00;font-weight:bold; font-size:16px; 
+                 padding:8px 0px; width: 550px;cursor: pointer;margin-left: 0px;margin-right: 0px}
+.table_child{
+    width:250px;
+    border:1px dotted #ccc;
+}
+.title{
+    color:#0066CC;
+    font-weight:bold; font-size:16px; 
+    padding:8px 8px;
+}
+.tdTitle{
+    font-weight: bold;
+    padding-bottom: 4px;
+}
+.top100_scroll {
+    max-height:400px;
+    overflow-x:hidden;
+    overflow-y:auto;
+}
+
+.wbox {
+    background-color:#EEEEEE;
+    background-position:initial initial;
+    background-repeat:initial initial;
+    border:1px solid #D8D8D8;
+    display:inline-block;
+    margin:0;
+    min-height:155px;
+    overflow:auto;
+    padding:0px 0px 0;
+    width:255px;
+}
+.rank_hed {border-bottom:1px solid #cccccc; font-weight:bold}
+.rank_td {border:1px dotted #ccc}
+
+#dgn_item_bid .dgn_item_img {
+    border:1px solid #C1C1C1;
+    float:left;
+    margin-right:10px;
+    text-shadow:#CCCCCC 0 0 1px;
+    display:inline-table
+}
+.dgn_title_blue {color:#0072BC;font-size:12px;font-weight:bold;}
+#dgn_item_bid .dgn_item_bid{
+    background-color: rgb(255, 255, 255); border: 1px solid rgb(204, 204, 204); margin: 0px 16px 10px 0px; position:relative;display:inline-block;
+    cursor:pointer;height:200px;padding:10px;width:500px;list-style:none;
+}
+#dgn_item_bid .dgn_item_detail{float:left;width:250px;}
+#dgn_item_bid .dgn_item_detail .sb_bid_time_ {position:relative;display:inline-block;line-height:22px; color:#E28D00; font-size:16px; display:block; font-weight: bold;}
+.sb_bid_time_ sup{ font-weight: normal; font-size: 11px;}
+p{float:left;padding: 3px;margin: 3px;}
+.h1{
+    color:#666666;font-weight:bold;
+    font-size:30px;font-family: Tahoma !important;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}

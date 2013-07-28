@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/37/Application/controllers
+END
+bidview.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/21/Application/controllers/bidview.php
+END
+members.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/Application/controllers/members.php
+END
+adminedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/3/Application/controllers/adminedit.php
+END
+item.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/Application/controllers/item.php
+END
+itemcontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/17/Application/controllers/itemcontrol.php
+END
+bidcontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/37/Application/controllers/bidcontrol.php
+END
+auction.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/Application/controllers/auction.php
+END
+auctioncontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/21/Application/controllers/auctioncontrol.php
+END
+huongdan.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/Application/controllers/huongdan.php
+END
+itemedit.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/Application/controllers/itemedit.php
+END
+tintuc.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/Application/controllers/tintuc.php
+END
+itemadd.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/3/Application/controllers/itemadd.php
+END
+login.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/21/Application/controllers/login.php
+END
+membercontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/Application/controllers/membercontrol.php
+END
+editAuction.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/21/Application/controllers/editAuction.php
+END
+setAuction.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/18/Application/controllers/setAuction.php
+END
+user.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/3/Application/controllers/user.php
+END
+myuser.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/Application/controllers/myuser.php
+END
+useredit.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/Application/controllers/useredit.php
+END
+register.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/3/Application/controllers/register.php
+END
+bidend.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/21/Application/controllers/bidend.php
+END
+deleteAuction.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/Application/controllers/deleteAuction.php
+END
+paypal.php
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/3/Application/controllers/paypal.php
+END
+paypalcontrol.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/3/Application/controllers/paypalcontrol.php
+END
+runAuction.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/3/Application/controllers/runAuction.php
+END
+admin.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/3/Application/controllers/admin.php
+END
+home.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/25/Application/controllers/home.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/35/Application/models
+END
+card.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/3/Application/models/card.php
+END
+infor.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/3/Application/models/infor.php
+END
+item.php
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/21/Application/models/item.php
+END
+bid.php
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/35/Application/models/bid.php
+END
+itemtype.php
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/18/Application/models/itemtype.php
+END
+auctionresult.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/21/Application/models/auctionresult.php
+END
+users.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/17/Application/models/users.php
+END
+auction.php
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/20/Application/models/auction.php
+END
